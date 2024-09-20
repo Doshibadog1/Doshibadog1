@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my multitool, vortex! **Vortextool**
 
-- 🌱 I’m currently learning python, a bit of lua **learning basic python**
+- 🌱 I’m currently learning **basic python**
 
 - ⚡ Fun fact [I am 15 years old](I am 15 years old)
 
