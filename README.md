@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **basic python**
 
-- ⚡ Fun fact [I am 15 years old](I am 15 years old)
+- ⚡ Fun fact [I am 15 years old]
 
 - 📫 How to reach me, my discord! **doshiba59**
 
