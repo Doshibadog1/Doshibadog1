@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A passionate luau, python devloper from France</h3>
+<h3 align="center">A passionate luau, python developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doshibadog1&label=Profile%20views&color=0e75b6&style=flat" alt="doshibadog1" /> </p>
 
